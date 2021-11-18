@@ -1,0 +1,27 @@
+#sketch_name,
+#sketch_confidence,
+#sketch_drawn{
+    color: black;
+    font-size: 25px;
+}
+
+#score{
+    float: left;
+}
+
+#timer,
+#show_sketch{
+    float: right;
+}
+
+body{
+    background-color: khaki;
+}
+
+.heading{
+margin-top: 0px;
+}
+
+#label_score{
+    color: black;
+}
